@@ -1,0 +1,12 @@
+{
+    "name": "GOG_WiiU",
+    "platform": "nwiiu",
+    "guid": "4f9b73d5-1f61-48e8-b49b-9c2ef069b6cc",
+    "version": "1.0",
+    "description": "Cemu plugin",
+    "author": "Hyoretsu",
+    "email": "hyoretsu@gmail.com",
+    "url": "https://github.com/hyoretsu/galaxy-integration-cemu",
+    "update_url": "https://raw.githubusercontent.com/hyoretsu/galaxy-integration-cemu/master/current_version.json",
+    "script": "plugin.py"
+}

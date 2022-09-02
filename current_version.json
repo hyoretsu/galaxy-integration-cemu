@@ -1,0 +1,9 @@
+{
+    "tag_name": "v1.0.0",
+    "assets": [
+        {
+            "browser_download_url": "https://github.com/hyoretsu/galaxy-integration-cemu/releases/latest/download/galaxy-integration-cemu.zip",
+            "name": "galaxy-integration-cemu.zip"
+        }
+    ]
+}
